@@ -1,3 +1,4 @@
+// src/Penghitung.jsx (VERSI BENAR)
 import { useState } from 'react';
 import Kartu from './Kartu';
 

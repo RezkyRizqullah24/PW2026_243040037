@@ -17,10 +17,11 @@
 .kosong { color: #6B7280; text-align: center; font-style: italic; }
 .galat { color: #DC2626; font-size: 13px; margin: 6px 0 0; }
 .ringkasan { font-size: 14px; color: #374151; }
+
+/* ===== Tambahan Tugas 1: tombol filter ===== */
 .baris-filter { display: flex; gap: 8px; margin-bottom: 12px; }
-.tombol-filter { padding: 8px 14px; border: 1px solid #D0D7DE; 
-    border-radius: 6px; background: #F3F4F6; color: #374151; 
-    font-weight: bold; cursor: pointer; }
-.tombol-filter.aktif { background: #1B365D; 
-    border-color: #1B365D; color: #FFFFFF; }
+.tombol-filter { padding: 8px 14px; border: 1px solid #D0D7DE; border-radius: 6px; background: #F3F4F6; color: #374151; font-weight: bold; cursor: pointer; }
+.tombol-filter.aktif { background: #1B365D; border-color: #1B365D; color: #FFFFFF; }
+
+/* ===== Tambahan Tugas 2: tombol hapus semua yang selesai ===== */
 .aksi-bawah { margin-top: 14px; }
